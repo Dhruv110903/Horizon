@@ -1,0 +1,4 @@
+manage reviews
+update tours.json
+check favicon
+deploy on on render/ vercel 
