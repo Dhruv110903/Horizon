@@ -149,7 +149,7 @@ const Home = () => {
                   </h2>
                 </Col>
                 <Col lg='12'>
-                 <MasonryImagesGallery />
+                 <MasonryImagesGallery  ku/>
                 </Col>
               </Row>
             </Container>
@@ -162,9 +162,9 @@ const Home = () => {
                 <Col lg='12'>
                   {/* <Subtitle subtitle={'Fans Love'} /> */}
                   <h5 className="services__subtitle">
-                    Fans Love
+                    Customer's Love
                 </h5>
-                  <h2 className="testimonial__title">What our Fans say about us?</h2>
+                  <h2 className="testimonial__title">What our Customer's say about us?</h2>
                 </Col>
                 <Col lg='12'>
                   <Testimonials />
