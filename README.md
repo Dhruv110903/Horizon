@@ -12,23 +12,19 @@ This web application is a comprehensive platform for tour operators to manage an
      
 
 ## Vist App
-To vist the app <a href=https://horizon1.netlify.app>Click here </a>
+To vist the app <a href=https://horizon1.netlify.app> Click here </a>
 </br>
 Since it is a free version so some items might render slowly.
 
 ## Built With
-<img align="right" alt="GIF"  src="https://github.com/MAES-Pyramids/Natours-Course-Node/blob/master/.ReadMeResources/Photos/dependencies.png"  width="25%" /> 
-
-Natours was built using the following technologies:
+Horizon was built using the following technologies:
 * [Express](http://expressjs.com/) - The web framework used 
 * [Mongoose](https://mongoosejs.com/) - Object Data Modelling (ODM) library
 * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Cloud database service
-* [Pug](https://pugjs.org/api/getting-started.html) - High performance template engine
 * [JSON Web Token](https://jwt.io/) - Security token
-
-
+* [bcrypt Js](https://www.npmjs.com/package/bcryptjs) -Password hashing function
+* [dotenv](https://www.npmjs.com/package/dotenv) - For Environment Variables
 * [Postman](https://www.getpostman.com/) - API testing
-
 * [Render](https://render.com/) - Cloud platform for backend Deployment
 * [Netlify](https://www.netlify.com/)- For Frontend development
 ```
