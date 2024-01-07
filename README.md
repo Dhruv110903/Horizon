@@ -1,6 +1,6 @@
 <h1 align="center">Horizon</h1>
 <p align=center>
-   <img src="https://github.com/Dhruv110903/Horizon/assets/93207042/5aad5484-44c8-4c0f-867a-e93a5aef2632" width="20%"
+   <img src="https://github.com/Dhruv110903/Horizon/assets/93207042/5aad5484-44c8-4c0f-867a-e93a5aef2632" width="35%"
 </p> 
 
 ## Demo.
