@@ -25,5 +25,5 @@ Natours was built using the following technologies:
 * [Postman](https://www.getpostman.com/) - API testing
 
 * [Render](https://render.com/) - Cloud platform for backend Deployment
-* [Netlify(https://www.netlify.com/)- For Frontend development
+* [Netlify](https://www.netlify.com/)- For Frontend development
 ```
