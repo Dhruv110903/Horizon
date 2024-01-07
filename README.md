@@ -12,7 +12,8 @@ This web application is a comprehensive platform for tour operators to manage an
      
 
 ## Vist App
-To vist the app <a href=https://horizon1.netlify.app/home>Click here </a>
+To vist the app <a href=https://horizon1.netlify.app>Click here </a>
+Since it is a free version, some items might render slowly.
 
 ## Built With
 <img align="right" alt="GIF"  src="https://github.com/MAES-Pyramids/Natours-Course-Node/blob/master/.ReadMeResources/Photos/dependencies.png"  width="25%" /> 
