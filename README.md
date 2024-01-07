@@ -1,6 +1,6 @@
 <h1 align="center">Horizon</h1>
 <p align=center>
-   <img src="https://github.com/Dhruv110903/CoinVerse/assets/93207042/f4757368-be85-4c23-8834-30a5fd24df51" width="20%"
+   <img src="https://github.com/Dhruv110903/Horizon/assets/93207042/5aad5484-44c8-4c0f-867a-e93a5aef2632" width="20%"
 </p> 
    
 ## A Full-stack tour management MERN web application.
