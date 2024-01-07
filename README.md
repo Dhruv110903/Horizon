@@ -2,7 +2,10 @@
 <p align=center>
    <img src="https://github.com/Dhruv110903/Horizon/assets/93207042/5aad5484-44c8-4c0f-867a-e93a5aef2632" width="20%"
 </p> 
-   
+
+## Demo.
+https://github.com/Dhruv110903/Horizon/assets/93207042/a2ace876-ba9e-4dac-8ea1-325e95978587
+
 ## A Full-stack tour management MERN web application.
 This is a web application is built for the university group project using MERN technologies.
 This web application is a comprehensive platform for tour operators to manage and organize tours. It offers features such as tour package creation, itinerary customization, and pricing management. Customers can search for and book tours based on their preferences. The application also includes features like user authentication, advanced search and filtering for enhanced user experience. Additionally, it provides a review and rating system for customers to share their feedback. Overall, this application simplifies tour management processes and improves the booking experience for both tour operators and customers. And also, customers get better experience of their future trip.
