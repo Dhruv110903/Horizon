@@ -31,7 +31,7 @@ const Home = () => {
                    <img src={worldImg} alt="" />                  
                </div> */}
                <h1>Athithidevo Bhava!<span className="highlight">अतिथिदेवो भव!</span></h1>
-               <p>life is a journey, enjoy the trip. Aim for the sky, but move slowly, enjoying every step along the way. 
+               <p>Life is a journey, enjoy the trip. Aim for the sky, but move slowly, enjoying every step along the way. 
                 It is all those little steps that make the journey complete. The journey is a reward.</p>
             </div>
           </Col>
