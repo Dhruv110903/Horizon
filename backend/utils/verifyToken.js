@@ -23,7 +23,7 @@ export const verifyToken = (req, res, next) => {
 
 export const verifyUser = (req, res, next) => {
     verifyToken(req, res, next, () => {
-        if (req.user.id === req.params.id || req.user.role === "admin") {
+        if (req.user.id === req.params.id || req.user.role === "user") {   //some changes here as well
             next();
         } else {
             return res.status(401).json({ success: false, message: "You are not authenticated" });
