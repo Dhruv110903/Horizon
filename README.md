@@ -1,5 +1,6 @@
+<h1 align="center">Horizon</h1>
 <p align=center>
-   <img src="https://github.com/Shehan-lakshitha/Pearl/assets/90453471/f96df73c-bcd4-497f-ac06-97fb935ec552"
+   <img src="![logo-no-background](https://github.com/Dhruv110903/CoinVerse/assets/93207042/f4757368-be85-4c23-8834-30a5fd24df51)"
 </p> 
    
 ## A Full-stack tour management MERN web application.
