@@ -7,13 +7,14 @@
 https://github.com/Dhruv110903/Horizon/assets/93207042/a2ace876-ba9e-4dac-8ea1-325e95978587
 
 ## A Full-stack tour management MERN web application.
-This is a web application is built for the university group project using MERN technologies.
+This is a web application is built using MERN technologies.
 This web application is a comprehensive platform for tour operators to manage and organize tours. It offers features such as tour package creation, itinerary customization, and pricing management. Customers can search for and book tours based on their preferences. The application also includes features like user authentication, advanced search and filtering for enhanced user experience. Additionally, it provides a review and rating system for customers to share their feedback. Overall, this application simplifies tour management processes and improves the booking experience for both tour operators and customers. And also, customers get better experience of their future trip.
      
 
 ## Vist App
 To vist the app <a href=https://horizon1.netlify.app>Click here </a>
-Since it is a free version, some items might render slowly.
+</br>
+Since it is a free version so some items might render slowly.
 
 ## Built With
 <img align="right" alt="GIF"  src="https://github.com/MAES-Pyramids/Natours-Course-Node/blob/master/.ReadMeResources/Photos/dependencies.png"  width="25%" /> 
